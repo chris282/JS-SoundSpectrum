@@ -1,3 +1,19 @@
+
+Run "npm install" inside this project folder to install all dependencies.
+
+npm install
+
+To build the project : 
+ng build
+
+To launch the project 
+ng serve
+
+Open it on your browser : http://localhost:4200/ 
+
+----------------
+
+
 # ng-three-template
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) and is designed as a basic template for [ThreeJS](https://threejs.org/) combined with [Angular](https://angular.io/) and [Bootstrap](https://getbootstrap.com/) in Version 4.x
