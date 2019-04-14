@@ -3,10 +3,12 @@ Run "npm install" inside this project folder to install all dependencies.
 
 npm install
 
-To build the project : 
+To build the project :
+
 ng build
 
-To launch the project 
+To launch the project :
+
 ng serve
 
 Open it on your browser : http://localhost:4200/ 
