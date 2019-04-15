@@ -17,7 +17,19 @@ ng serve
 
 Open it on your browser : http://localhost:4200/ 
 
-----------------
+## RoadMap
+
+- The 3D scene is working.
+- The FFT algorithm is in place, I have to test it.
+
+So here are the next steps TODO : 
+- Get the audio stream of the computer or microphone.
+- Put the audio stream to the DFT (FFT) transform
+- Put the FFT output values into an array
+- Display raw data from the FFT output values (with text).
+- Display the FFT output values in 2D with simple visualization
+- Display the FFT output values in 3D with a nice visualization
+
 ## History
 
 This project was initiated from ng-three-template by JohnnyDevNull ( https://github.com/JohnnyDevNull/ng-three-template ) generated with [Angular CLI](https://github.com/angular/angular-cli) and is designed as a basic template for [ThreeJS](https://threejs.org/) combined with [Angular](https://angular.io/) and [Bootstrap](https://getbootstrap.com/) in Version 4.x
