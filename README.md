@@ -1,6 +1,6 @@
 
 Welcome to my Sound Spectrum project, based on Angular 7 and Three.js !
-Help me by contributing to this project, as I am learning Angular an javascript. I want to make this project as good as my Java sound spectrum project :)
+Help me by contributing to this project, as I am learning Angular an javascript. I want to make this project as good as my Java sound spectrum project (available here : https://github.com/chris282/Java-SoundSpectrum ) :)
 
 # First Run :
 Run "npm install" inside this project folder to install all dependencies.
